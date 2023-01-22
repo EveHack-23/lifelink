@@ -1,6 +1,9 @@
 # Life Link - "Lookup and Hookup" 
 
+![Logo](/images/logo.png)
+
 Life Link is a community driven platform in its infancy to co-ordinate and collaborate medical services and lookups on blood / organ donors .etc . basically lookup and hookup medical stuff including and not excluding essential medicines , medical equipment for specially needed .etc
+
 
 ## Problem Statement
 We are in need of :
@@ -24,6 +27,8 @@ We are in need of :
 ## What 'Life Link' Does ?
 
 # Life Link Feature-Set
+
+![Blood](/images/add_donor.png)
 
 ### Life 'Ink' - Blood Donation Module
 - civilians can perform a search/lookup of blood donors based on locality and blood type.
@@ -52,10 +57,13 @@ We are in need of :
 		- Telemetry data from Health Apps
 		- Analytics from Fitness Bands and Equipments
 		- DNA Test Results (23 and Me Collabration)
+
+![Organ](/images/add_organ.png)
 ### "Sharing Life Link" - Organ Donation Module
 - Institutions can search for organ donors and get information of donors.
 - Institutions and volunteers can add donor information.
 - Use other Sources to aggregate donor data.
+
 ### "Link Legit?" - Charity Scrutinizing Module
 - civilians can request to check the legitimacy of a charity/donation case they saw.
 - these requests are collected and algorithmically delivered to volunteers in the locality
@@ -67,12 +75,15 @@ We are in need of :
 - search for volunteers in your locality.
 - search volunteer based on special skills.
 
+
 ### "Life Line" - Ambulance Route Prediction and Guidance
 - institutions can search to find a best route possible from A to B.
 	- the route is calculated considering the current and historical traffic data from different sources.
 	- the transit time is estimated and volunteer force en-route is alerted.
 	- volunteers are given an estimated time when the ambulance reaches the locality
 	- volunteers can  
+
+
 
 # Uniqueness of 'Life Link'
 ## Credit System for Volunteers - "LifeCredit++"
@@ -86,6 +97,8 @@ We are in need of :
 	- helps Scrutinizing a charity.
 	- promote good health habits through social media.(Spamming is monitored)
 	- took training courses on first-aid , trauma care , first responder .etc
+
+
 
 ## How to redeem "Life Credits"? , Answer : Partnerships !
 - this is where the "Life Credits" are going to come in handy , both in a commercial setup and an academic setup.
@@ -112,6 +125,7 @@ We are in need of :
 		- provide people personalized diet plans n stuff.
 - 
 ## Tech Stacks Used
+
 
 ### Current Implementation
 - HTML + CSS + ootStrap
