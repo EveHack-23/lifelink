@@ -1,6 +1,6 @@
 # Life Link - "Lookup and Hookup" 
 
-![Logo](/images/logo.png)
+![Logo](https://i.ibb.co/3TRGL7r/logo.png)
 
 Life Link is a community driven platform in its infancy to co-ordinate and collaborate medical services and lookups on blood / organ donors .etc . basically lookup and hookup medical stuff including and not excluding essential medicines , medical equipment for specially needed .etc
 
@@ -28,7 +28,7 @@ We are in need of :
 
 # Life Link Feature-Set
 
-![Blood](/images/add_donor.png)
+![Blood](https://i.ibb.co/z2nYH5f/add-donor.png)
 
 ### Life 'Ink' - Blood Donation Module
 - civilians can perform a search/lookup of blood donors based on locality and blood type.
@@ -42,7 +42,11 @@ We are in need of :
 	- a small buffer of donors are also contacted based on the algorithm to account for withdrawal/incompatibility of accepted users.
 	- active volunteers are given priority in these lists to ensure participation.
 	- pull data from existing sources and update them.
+
+![WA](https://i.ibb.co/NtDgQKW/bot-Accept.jpg) ![WA2](https://i.ibb.co/cgX1rwh/bot-Decline.jpg)
+
 #### Data Collection (Strictly Ethicalol) 
+
 		- Name and Address.
 		- Primary and Secondary Locations.
 		- Blood Group.
@@ -58,7 +62,8 @@ We are in need of :
 		- Analytics from Fitness Bands and Equipments
 		- DNA Test Results (23 and Me Collabration)
 
-![Organ](/images/add_organ.png)
+![Organ](https://i.ibb.co/JQJpD72/add-organ.png)
+
 ### "Sharing Life Link" - Organ Donation Module
 - Institutions can search for organ donors and get information of donors.
 - Institutions and volunteers can add donor information.
@@ -74,6 +79,7 @@ We are in need of :
 ### "Find Life Cadets" - Volunteer Lookup Module
 - search for volunteers in your locality.
 - search volunteer based on special skills.
+
 
 
 ### "Life Line" - Ambulance Route Prediction and Guidance
@@ -106,15 +112,14 @@ We are in need of :
 	- credits can be redeemed in e-com sites.
 	- give priority in academic admissions.(just like an NSS/NCC )
 
+![cred](https://i.ibb.co/gTJVPDV/credit-slide.png)
+
 - "Life Credits" can evolve into a decentralized Currency based on "PoV - Proof of Volunteering"
 
 ## Business Model of Life Link 
 ### we run not only on Dough'nation, there is serious potential for investments.
-#### - Dough'nation.
-#### - Sponsorships.
-#### - Subscription Model.
-#### - Ad Revenue
-#### - Affiliate Revenue
+
+![busyness](https://i.ibb.co/ZGGV0gG/business.png)
 
 - we expect serious funding from government as a humanitarian venture.
 - this is where the credits program pays off , through partnerships.
@@ -138,3 +143,6 @@ We are in need of :
 - Vismaya A M
 - Nandulal Krishna
 
+## Future Expansion
+
+![futurama](https://i.ibb.co/j5Tsy2N/future.png)
